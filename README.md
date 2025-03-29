@@ -1,2 +1,4 @@
 # First_Project
-The repository contains my first data 
+
+#Project Background
+Amazon is one of the largest ecommerce platforms globally which provides quite a few different items
